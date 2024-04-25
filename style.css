@@ -13,9 +13,6 @@
 .bg-news{
     background-color: #77441f !important  ;
 }
-
-bg color #200600 (navbar,header)
-color text #4c2a13
-#cf9d6c
-#120806
-#77441f
+.btn-bg-color{
+    background-color: #120806 !important;
+}
